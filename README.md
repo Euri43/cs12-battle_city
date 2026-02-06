@@ -30,8 +30,10 @@ Highest Phase Accomplished: Phase 3
 
 -----
 Contributions:
+
 • BARBON, Alfonzo Euri P. - Game Mechanics, Programming of Battle City using Pyxel and Pyxelgrid, Code Documentation
 
 • MONASTRIAL, Alejandro Jose J. - Sprites and Sounds in .pyxres file, Stage File w/ Level Maps, Design and Layout of Battle City Interface, Video Demo
 
 Google Drive Link for Video Demo: https://drive.google.com/file/d/1IUGlFohGJSKMlHrOfCYIrFAhCdI7k-CM/view?usp=sharing
+
